@@ -1,0 +1,9 @@
+{
+  "name": "AcademiaPrime: Research Consultant & Architect",
+  "description": "A high-performance workspace for academic research, drafting, and analytical comprehension, powered by Gemini 3 and Google Search grounding.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
